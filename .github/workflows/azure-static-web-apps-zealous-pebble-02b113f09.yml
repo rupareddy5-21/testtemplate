@@ -28,8 +28,7 @@ jobs:
           ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: "s rc" # App source code path
-          api_location: "api" # Api source code path - opti
-          skip_api_build: true
+          api_location: "a pi" # Api source code path - opt
           
           ###### End of Repository/Build Configurations #####
 
